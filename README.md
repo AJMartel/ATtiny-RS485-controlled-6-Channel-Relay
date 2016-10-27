@@ -8,16 +8,16 @@ The built in ATtiny2313 microcontroller along with the **MAX485 RS485 tranciever
 
 ##Features
 
- - ATtiny2313 based Microcontroller for Protocol Decoding and control
- - 3 pin MAX485 based RS485 Port for controlling the Relays using RS485 protocol.
- - 6 SPDT Relays rated at 7A/250VAC
+ - **ATtiny2313** based Microcontroller for Protocol Decoding and control
+ - 3 pin MAX485 based **RS485 Port** for controlling the Relays using RS485 protocol.
+ - **6 SPDT Relays** rated at 7A/250VAC
  - 3 bit Address selection using Jumpers for networked opeartion
- - SPI based Relay Control 
- - I2C based Relay Control 
- - RS485 based Relay Control 
- - Serial (TTL) based Relay Control 
+ - **SPI** based Relay Control 
+ - **I2C** based Relay Control 
+ - **RS485** based Relay Control 
+ - **Serial (TTL)** based Relay Control 
  - Indicator LED's to visualize relay status
  - Built in Voltage regulator for  connecting with standard 12V DC adapters 
- - Software support in C (for ATTiny) and C# (for PC based Control).
+ - Software support in **C** (for ATTiny) and **C#** (for PC based Control).
  
- ##Code Support
+##Code Support
