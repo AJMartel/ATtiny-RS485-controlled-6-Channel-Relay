@@ -25,7 +25,7 @@ The built in ATtiny2313 microcontroller along with the **MAX485 RS485 tranciever
 ##Code Support
 The microcontroller side code for ATTiny2313 is written in **Embedded C** and compiled using **AVR GCC**.
 The PC side code used for controlling the relays from PC is written in **C#** and can be compiled using **MS Visual Studio** or
-SharpDevelop(http://www.icsharpcode.net/opensource/sd/)
+<a href = "http://www.icsharpcode.net/opensource/sd/">SharpDevelop</a>
 
 
 ##Repo Contents
