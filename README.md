@@ -2,13 +2,15 @@
 
 # ATtiny2313 based Serial/RS485/SPI/I2C controlled 6 Channel Relay Board
 
+<img src="http://www.xanthium.in/sites/default/files/site-images/attiny2313-six-channel-relay/rs485-serial-spi-i2c-controlled-arduino-6-channel-relay.jpg" />
+
 The Board consists of a **ATtiny2313** controlled 6 channel Relay which can be controlled by either **Serial(TTL)** /**RS485** /**SPI** or **I2C** Protocol.The board helps you to save precious microcontroller pins by using serial protocols for control and coordination.
 
 The board provides easy and cost effective means to **interface and control 6 SPDT relays** to your microcontroller board like Arduino/AVR/8051/Raspberry Pi or PIC using a two wire serial protocol.
 
 The built in ATtiny2313 microcontroller along with the **MAX485 RS485 tranciever chip** can be used for decoding various protocols like **ModBUS**.
 
-##Features
+## Features
 
  - **ATtiny2313** based Microcontroller for Protocol Decoding and control
  - 3 pin MAX485 based **RS485 Port** for controlling the Relays using RS485 protocol.
@@ -22,10 +24,14 @@ The built in ATtiny2313 microcontroller along with the **MAX485 RS485 tranciever
  - Built in Voltage regulator for  connecting with standard 12V DC adapters 
  - Software support in **C** (for ATTiny) and **C#** (for PC based Control).
  
-##Code Support
+## Code Support
 The microcontroller side code for ATTiny2313 is written in **Embedded C** and compiled using **AVR GCC**.
 The PC side code used for controlling the relays from PC is written in **C#** and can be compiled using **MS Visual Studio** or
 <a href = "http://www.icsharpcode.net/opensource/sd/">SharpDevelop</a>
 
 
-##Repo Contents
+## Repo Contents
+
+ - Circuit
+ - 
+
